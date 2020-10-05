@@ -8,6 +8,7 @@ For more info:
 library for measuring mq2 gas values in this function
  
  this library includes  function:
+        
         1)inits()----> for serial begin or anything you want to describe
               
         2)calibrate()------> for calibrating sensor RL resistor inside the MQ-9 should be on for 24-48Hours
