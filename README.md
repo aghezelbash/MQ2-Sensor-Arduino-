@@ -28,6 +28,8 @@ library for measuring mq2 gas values in this function
       5)printData(float data)  ------> this function is used for printing data it $%$ if your compiler is not arduino change as u want
            
       6)readADC(int pin)   ------> this function is used for reading adc values $%$ if your compiler is not arduino change as u want
+      
+      7)thrNvalue(int threshold) -------> just use adc value as threshold
 
  
  
